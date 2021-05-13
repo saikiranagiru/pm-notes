@@ -17,3 +17,7 @@
 * Ensuring that project requirements were met
 * The sponsor approves completion of the project
 
+# Important Notes
+## To do list
+* Make sure to read the slides before the Class
+* Complete the Assignments before the given deadline
