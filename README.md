@@ -21,3 +21,9 @@
 ## To do list
 * Make sure to read the slides before the Class
 * Complete the Assignments before the given deadline
+
+## Today's Job (05/13/2021)
+* Created new issue under existing repo
+* Created an open project and linked it to the existing repo
+* Closed the issue
+* Moved the issue from open to done as it was created using basic kanban
